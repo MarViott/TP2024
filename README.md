@@ -1,7 +1,7 @@
 # TP2024
 Trabajo Integrador en equipo del curso Full Stack CODO A CODO. 
 
-Grupo 5: ROCÍO ARANDA, MARIELA SIRUR FLORES, MARISA VIOTTI y MARCELA BRITOS.
+Grupo 5: MARISA VIOTTI (Full Stack), MARCELA BRITOS (Front-end), ROCÍO ARANDA (Coordinación), MARIELA SIRUR FLORES (Perfiles).
 
 SER O NO SER es una cartelera de teatro con obras que se presentan en Argentina. 
 
